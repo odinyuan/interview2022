@@ -160,7 +160,7 @@ const TodoList = observer(({store}) => {
         ) }
       </ul>
       <Button variant="contained" color="primary" onClick={onNewTodo}>
-      Confirm
+      Add a todo issue.
     </Button>
       <small> (double-click a todo to edit)</small>
       

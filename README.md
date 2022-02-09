@@ -1,3 +1,13 @@
+# interview2022
+This is a demo for the interview. Majority part of the code is from instruction pages and modified by me.
+
+In LoginPage, you can get access to User page with password:passwd, and username has no verification in current code.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +78,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# interview2022
+
+# 
